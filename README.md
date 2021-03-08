@@ -1,5 +1,5 @@
 # hdl-axi-regs
-A simple AXI4 register space in VHDL without using Block-RAM.
+A simple AXI4-Lite register space in VHDL without using Block-RAM.
 
 See the content of file `axi_regs.vhd`.
 
